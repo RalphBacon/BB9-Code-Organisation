@@ -27,7 +27,7 @@ DS18b20 Waterproof version (1m cable, longer available): https://s.click.aliexpr
 
 #### ► Next Steps
 
-The **next video #BB10** in this series will cover _**namespaces**_ - which does something towards getting rid of true globals. Grr!
+The **next video #BB10** in this series will cover _**namespaces**_ - which goes some way towards getting rid of true globals. Grr!
 
 Stay tuned!
 
