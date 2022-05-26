@@ -2,7 +2,7 @@
 Organised code is so much easier to read, debug and maintain
 
 ![Thumbnail](https://user-images.githubusercontent.com/20911308/170435731-0752a07f-2408-4f91-8860-79b26136866c.png)  
-Video Link: [https://  ](https://youtu.be/PWMOb85OGY0)  
+Video Link: https://youtu.be/PWMOb85OGY0  
 
 #### "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler (https://en.wikiquote.org/wiki/Martin_Fowler)  
 
