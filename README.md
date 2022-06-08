@@ -14,6 +14,12 @@ In this video we look at how we turn "prototyping code" into a well-structured, 
 
 All the code in the video is available right here in the GitHub for you to play around with.  
 
+<img src="https://user-images.githubusercontent.com/20911308/135296246-f216aa5b-0567-4aa8-b1b3-30a3ed92373b.gif" align="left">
+<br />
+<a href="https://buymeacoffee.com/ralphbacon" target="_blank">You can support me by buying me a coffee!</a>  
+<br>
+<br>
+<br>
 #### ► Hardware used in demo project:  
 ![LCD screen (Custom)](https://user-images.githubusercontent.com/20911308/170461608-a9ba65db-a14d-4a0c-ac4f-6949be1da86d.jpg)  
 LCD screen INCL I2C backpack (ships from UK): https://www.banggood.com/custlink/DmmyzUKPAc  
